@@ -37,7 +37,7 @@
     <property name="os.version" value="10.0"/>
     <property name="library.jansi.path" value="C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin\..\lib\jansi-native"/>
     <property name="user.home" value="C:\Users\Ajay"/>
-    <property name="user.timezone" value="America/New_York"/>
+    <property name="user.timezone" value="America/Chicago"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
